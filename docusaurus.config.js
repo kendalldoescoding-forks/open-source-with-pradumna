@@ -37,6 +37,9 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        googleTagManager: {
+          gtmId: 'GTM-WGC6Z2DF',
+        },
       }),
     ],
   ],
